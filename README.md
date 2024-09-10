@@ -1,5 +1,9 @@
-# 💫 About Me:
-Hello! 👋 I'm Harjyoti, a self-taught web developer fueled by a passion for creating engaging and dynamic web experiences. I embarked on my web development journey through YouTube, Google, and various free resources, diving into the world of HTML, CSS, and JavaScript.<br>My ultimate goal is to become a full-stack developer, mastering both front-end and back-end technologies to create seamless and robust web applications. I'm constantly seeking new challenges and learning opportunities to further enhance my skills and expand my knowledge in the ever-evolving field of web development.
+### 🌟 About Me:
+
+- 👋 **Harjyoti** — a self-taught web developer passionate about building dynamic and engaging web experiences.
+- 🎯 **Journey** — started with HTML, CSS, and JavaScript through YouTube, Google, and free resources.
+- 🚀 **Goal** — aspiring to be a full-stack developer, mastering both front-end and back-end technologies.
+- 📚 **Learning** — always looking for new challenges to enhance skills and stay updated in the ever-evolving world of web development.
 
 
 ## 🌐 Socials:
