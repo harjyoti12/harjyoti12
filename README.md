@@ -1,5 +1,7 @@
-### 🌟 About Me:
+# Hi there, I'm Harjyoti 👋
 
+![Welcome](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)
+### 🌟 About Me:
 - 👋 **Harjyoti** — a self-taught web developer passionate about building dynamic and engaging web experiences.
 - 🎯 **Journey** — started with HTML, CSS, and JavaScript through YouTube, Google, and free resources.
 - 🚀 **Goal** — aspiring to be a full-stack developer, mastering both front-end and back-end technologies.
