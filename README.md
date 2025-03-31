@@ -1,6 +1,6 @@
 # Hi there, I'm Harjyoti 👋
 
-![Welcome](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)
+![Welcome](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611gol6yp61hf8uiuqiyqhrxnuvq84qelzi36qeobfl&ep=v1_gifs_search&rid=giphy.gif)
 ### 🌟 About Me:
 - 👋 **Harjyoti** — a self-taught web developer passionate about building dynamic and engaging web experiences.
 - 🎯 **Journey** — started with HTML, CSS, and JavaScript through YouTube, Google, and free resources.
